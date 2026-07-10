@@ -3,3 +3,28 @@
     background-color: red;
     border-radius: 50%;
 }
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar{
+display: flex;
+align-items: center;
+gap: 55px;
+font-family: sans-serif;
+}
+
+.search,.account,.bag,.liked,.menu {
+    width: 30px;
+    height: 30px;
+
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
