@@ -36,10 +36,37 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #descrip{
-    font-size: larger;
+    font-size: x-large;
 }
 
 .Boutique{
     height: 300px;
     width: 400px;
 }
+
+.description{
+    padding: 40px;
+    margin-left: 20px;
+}
+
+.section2{
+    display: flex;
+}
+
+.img1{
+    background-color: goldenrod;
+    height: 350px; 
+    width: 440px;
+}
+
+#womens{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+/* .img2{ 
+     background-color: goldenrod; 
+     height: 310px; 
+     width: 400px; 
+}*/
