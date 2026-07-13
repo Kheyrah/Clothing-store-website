@@ -12,8 +12,8 @@ nav{
 .navbar{
 display: flex;
 align-items: center;
-gap: 55px;
-font-family: sans-serif;
+gap: 75px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .search,.account,.bag,.liked,.menu {
