@@ -6,7 +6,8 @@
 
 nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
+    padding: 20px;
 }
 
 .navbar{
@@ -28,3 +29,17 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     gap: 10px;
 }
 
+.section{
+   background-color:goldenrod;
+   height: 290px;
+   display: flex;
+}
+
+#descrip{
+    font-size: larger;
+}
+
+.Boutique{
+    height: 300px;
+    width: 400px;
+}
