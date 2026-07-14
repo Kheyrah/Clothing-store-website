@@ -57,6 +57,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: goldenrod;
     height: 350px; 
     width: 440px;
+    margin-left: 70px;
 }
 
 #womens{
@@ -65,8 +66,9 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 5px;
 }
 
-/* .img2{ 
+  .img2{  
      background-color: goldenrod; 
-     height: 310px; 
-     width: 400px; 
-}*/
+     height: 350px; 
+     width: 430px; 
+     margin-left: 240px;
+}
