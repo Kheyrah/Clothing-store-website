@@ -72,3 +72,15 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      width: 430px; 
      margin-left: 240px;
 }
+
+#trendy{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.selection{
+display: flex;
+font-size: larger;
+justify-content: center;
+gap: 75px;
+}
