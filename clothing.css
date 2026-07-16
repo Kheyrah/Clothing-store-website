@@ -88,3 +88,10 @@ gap: 75px;
 .row1, .row2{
     display: flex;
 }
+
+.dealofweek1{
+    background-color: black;
+    color: white;
+    height: 290px;
+   display: flex;
+}
