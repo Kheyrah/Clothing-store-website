@@ -85,6 +85,6 @@ justify-content: center;
 gap: 75px;
 }
 
-.pics{
+.row1, .row2{
     display: flex;
 }
