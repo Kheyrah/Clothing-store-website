@@ -29,17 +29,17 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     gap: 10px;
 }
 
-.section{
+.section, .dealofweek{
    background-color:goldenrod;
    height: 290px;
    display: flex;
 }
 
-#descrip{
+#descrip, #week{
     font-size: x-large;
 }
 
-.Boutique{
+.Boutique, .Deal{
     height: 300px;
     width: 400px;
 }
