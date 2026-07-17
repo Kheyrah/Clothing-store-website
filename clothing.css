@@ -99,3 +99,14 @@ gap: 75px;
     padding: 40px;
     margin-left: 20px;
 }
+
+.Form{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+::placeholder{
+    color: white;
+}
