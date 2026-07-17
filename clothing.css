@@ -92,6 +92,10 @@ gap: 75px;
 .dealofweek1{
     background-color: black;
     color: white;
-    height: 290px;
    display: flex;
+}
+
+.footers{
+    padding: 40px;
+    margin-left: 20px;
 }
